@@ -1,6 +1,6 @@
 # Multi-language-Invoice-Extractor using Gemini AI  
 
-A powerful **AI-powered invoice extraction tool** that extracts and analyzes invoice data from images in multiple languages. This application uses **Google Gemini AI (Gemini 1.5 Flash)** to process invoice images and provide structured insights.
+A powerful **AI-powered invoice extraction tool** that extracts key invoice data from images in multiple languages. This application uses **Google Gemini AI (Gemini 1.5 Flash)** to process invoice images and provide structured insights.
 
 ## 🚀 Features  
 ✅ Supports invoices in multiple languages  
@@ -8,6 +8,19 @@ A powerful **AI-powered invoice extraction tool** that extracts and analyzes inv
 ✅ Handles handwritten and printed invoices  
 ✅ Provides structured invoice details like date, total amount, tax, etc.  
 ✅ Simple and intuitive **Streamlit UI**  
+
+## 📈 Business Impact  
+Manually extracting invoice details is time-consuming and error-prone, especially for businesses dealing with invoices in multiple languages. This tool automates the process, helping:  
+
+✔ **Finance & Accounting Teams** – Quickly extract key invoice details without manual data entry.  
+✔ **E-commerce Platforms** – Process supplier invoices from different regions efficiently.  
+✔ **Businesses with Global Clients** – Handle invoices in multiple languages without translation efforts.  
+✔ **Automates Missing Data Detection** – If specific details are absent in the invoice, the model **identifies missing information**, improving accuracy.  
+
+## 🤖 AI Integration  
+- Uses **Google Gemini AI (Gemini 1.5 Flash)** to extract key invoice details like **invoice number, date, total amount, vendor name, and tax details** from images.  
+- Unlike traditional OCR, it **understands structured invoice layouts** and retrieves specific details without requiring predefined templates.  
+- If a requested detail is missing from the invoice, the model **intelligently responds** by stating that the information is unavailable.  
 
 ## 🎯 How It Works  
 1. **Upload an invoice image** (JPG, JPEG, PNG)  
