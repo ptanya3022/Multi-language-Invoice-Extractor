@@ -2,6 +2,10 @@
 
 A powerful **AI-powered invoice extraction tool** that extracts key invoice data from images in multiple languages. This application uses **Google Gemini AI (Gemini 1.5 Flash)** to process invoice images and provide structured insights.
 
+## 🔗 Live Demo  
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Online-blue)](https://multi-language-invoice-extractor-k4bm5erizra3bmsem6itcx.streamlit.app/)  
+
+
 ## 🚀 Features  
 ✅ Supports invoices in multiple languages  
 ✅ Uses **Google Gemini 1.5 Flash** for intelligent text extraction  
@@ -27,8 +31,6 @@ Manually extracting invoice details is time-consuming and error-prone, especiall
 2. **Gemini AI processes** the image and extracts details  
 3. **Displays structured invoice data** in a readable format  
 
-## 🔗 Live Demo  
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Online-blue)](https://multi-language-invoice-extractor-k4bm5erizra3bmsem6itcx.streamlit.app/)  
 
 ## 🛠️ Tech Stack  
 - **Python** 🐍  
@@ -39,7 +41,9 @@ Manually extracting invoice details is time-consuming and error-prone, especiall
 
 ### Prerequisites  
 - Python 3.10+ installed  
-- Google Gemini API Key  
+- Google Gemini API Key
+
+  ---
 
 ### Installation  
 
